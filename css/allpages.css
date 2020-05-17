@@ -1,0 +1,116 @@
+<style>
+
+#p1
+{
+font-size:36x;
+font-family:Verdana;
+color:#1d74b3;
+}
+.nav-link
+{
+
+font-size:19px;
+font-family:verdana;
+}
+
+
+#cool
+{
+height:4px;
+width:10px;
+border-radius:4px;
+background-color:#3badff;
+animation:grow 1s forwards;
+
+}
+
+@keyframes grow
+{
+0% {
+    width: 40px;
+  
+}
+
+100%{
+    width: 300px;
+ 
+}
+}
+
+
+#p2
+{
+  font-size:20px;
+  font-family:Verdana;
+  text-align:justify;
+  color:#000;
+  
+}
+
+#d2
+{
+ 
+	height:auto;
+	background-color:#41a8e8;
+}
+
+.p3
+{
+ font-size:23px;
+font-family:Verdana;
+color:#fff;
+margin-left:40px;
+text-shadow:1px 0px;
+}
+
+
+.cool1
+{
+height:4px;
+width:10px;
+border-radius:4px;
+background-color:#fff;
+animation:grow1 3s forwards;
+margin-left:40px;
+}
+
+@keyframes grow1
+{
+0% {
+    width: 40px;
+margin-left:40px;
+}
+
+100%{
+    width: 200px;
+ 
+}
+}
+
+#p5
+{
+margin-left:50px;
+font-weight:bold;
+}
+
+#u1 li
+{
+ margin-left:40px;
+font-size:20px;
+
+color:#fff;
+}
+
+#u2 li
+{
+ margin-left:40px;
+font-size:20px;
+
+color:#fff;
+}
+
+
+<!whyhometutuion---->
+
+</style>
+
